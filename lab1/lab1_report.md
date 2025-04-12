@@ -6,7 +6,7 @@
 **Author:** Dashkovskay Dana Yuryevna  
 **Lab:** Lab1  
 **Date of create:** 03.04.2025  
-**Date of finished:** -
+**Date of finished:** 11.04.2025
 
 ## Лабораторная работа №1 "Базовая настройка ip-телефонов в среде Сisco packet tracer"
 
