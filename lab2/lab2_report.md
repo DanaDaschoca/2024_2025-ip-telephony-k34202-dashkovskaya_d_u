@@ -6,7 +6,7 @@
 **Author:** Dashkovskay Dana Yuryevna  
 **Lab:** Lab2  
 **Date of create:** 06.04.2025  
-**Date of finished:** -
+**Date of finished:** 11.04.2025
 
 ## Лабораторная работа №2 "Конфигурация voip в среде Сisco packet tracer"
 
