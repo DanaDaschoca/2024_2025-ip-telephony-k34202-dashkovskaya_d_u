@@ -44,13 +44,25 @@
 
 ![](https://github.com/DanaDaschoca/2024_2025-ip-telephony-k34202-dashkovskaya_d_u/blob/29d9d3af6c4e667fe8eac1f953cb161b3bf226ed/lab3/pic6.PNG)
 
-Результат вызова:
+7. Далее совершаем пробный вызов.
+
+user2 набирает номер user1 - 1000:
 
 ![](https://github.com/DanaDaschoca/2024_2025-ip-telephony-k34202-dashkovskaya_d_u/blob/29d9d3af6c4e667fe8eac1f953cb161b3bf226ed/lab3/pic7.PNG)
 
+user1 видет взодящий звонок от user2:
+
 ![](https://github.com/DanaDaschoca/2024_2025-ip-telephony-k34202-dashkovskaya_d_u/blob/29d9d3af6c4e667fe8eac1f953cb161b3bf226ed/lab3/pic8.PNG)
 
+user1 принимает звонок от user2:
+
 ![](https://github.com/DanaDaschoca/2024_2025-ip-telephony-k34202-dashkovskaya_d_u/blob/29d9d3af6c4e667fe8eac1f953cb161b3bf226ed/lab3/pic9.PNG)
+
+После в журнале вызовов обоих клиентов можно просмотреть все вызовы:
+
+![](https://github.com/DanaDaschoca/2024_2025-ip-telephony-k34202-dashkovskaya_d_u/blob/b49e2213156bec1db15a3a7ad2c6653629548048/lab3/pic10.PNG)
+
+![](https://github.com/DanaDaschoca/2024_2025-ip-telephony-k34202-dashkovskaya_d_u/blob/b49e2213156bec1db15a3a7ad2c6653629548048/lab3/pic11.PNG)
 
 Схема связи:
 
